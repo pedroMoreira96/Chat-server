@@ -12,3 +12,9 @@ Block [username] - block user
 Unblock [username] - unblock user  
 Users - list of online users  
 Exit - exit chat
+
+<br>
+<p align="center">
+  <img src="https://github.com/pedroMoreira96/Chat-server/assets/159487606/f470b765-1c2d-42f4-a5f4-7422f2cfac1a" alt="cover" style="width: 100%;"/>
+</p>
+
